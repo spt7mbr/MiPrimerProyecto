@@ -1,1 +1,2 @@
 Este archivo se ha creado para practicar GitHub Desktop.
+Esta línea se ha añadido desde la rama practica-desktop.
