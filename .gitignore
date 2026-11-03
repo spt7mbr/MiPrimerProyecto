@@ -10,3 +10,5 @@ __pycache__/
 .env
 # Configuración local de Visual Studio Code
 .vscode/
+# Archivo de prueba de la lección 11
+datos-prueba.txt
